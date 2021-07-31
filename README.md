@@ -1,5 +1,5 @@
 # Chat-Room
-Chat-Room is a SMTP based python script that allows you to connect with multiple devices via LAN/Hotspot and chat with your friends. It comes with a Admin master control functionality.
+Chat-Room is a Socket based python script that allows you to connect with multiple devices via LAN/Hotspot and chat with your friends. It comes with a Admin master control functionality.
 How to setup the chat-server :
 1.) Run Server.py
 2.) Choose Online server if you want to chat across multiple devices, else offline server.
